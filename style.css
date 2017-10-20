@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+    background-color: #ECEFF1;
+    padding: 16px;
+    margin: 16px;
+}
+h2{
+    text-align: center;
+    background-color: #ECEFF1;
+    padding: 8px;
+    margin: 16px;
+}
+p{
+    text-align: center;
+    /*border-radius: 10px;*/
+    background-color: #ECEFF1;
+    padding: 4px;
+    margin: 16px;
+}
+div{
+    text-align: center;
+    /*border-radius: 10px;*/
+    background-color: #ECEFF1;
+    color: red;
+    padding: 4px;
+    margin: 16px;
+}
+
+a#retry{
+    color: black;
+    background-color: rgb(203, 215, 222);
+    margin: 16px;
+    padding: 8px;
+    text-decoration: none;
+    float: right;
+}
